@@ -5,5 +5,5 @@
 Para utilizar o projeto em sua máquina, por favor, digite: 
 
 ```
-npm install 
+npm install react
 ```
